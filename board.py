@@ -88,12 +88,3 @@ b.field = [['O', 'X', 'O'],
              ['_', 'X', '_'],
              ['_', 'X', '_']]
 print(b.who_wins())
-# b.choose_figure()
-# field = (b.generate_field())
-# for i in field:
-#     print(i)
-#
-# b.put_figure()
-
-# b.get_user_position()
-# b.print_field()
